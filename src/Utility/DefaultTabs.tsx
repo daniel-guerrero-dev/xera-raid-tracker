@@ -2,6 +2,11 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { TableWing1 } from "@/Wings/Wing1Table";
 import { TableWing2 } from "@/Wings/Wing2Table";
 import { TableWing3 } from "@/Wings/Wing3Table";
+import { TableWing4 } from "@/Wings/Wing4Table";
+import { TableWing5 } from "@/Wings/Wing5Table";
+import { TableWing6 } from "@/Wings/Wing6Table";
+import { TableWing7 } from "@/Wings/Wing7Table";
+import { TableWing8 } from "@/Wings/Wing8Table";
 
 export function TabTables() {
   return (
@@ -25,11 +30,21 @@ export function TabTables() {
       <TabsContent value="Wing 3">
         <TableWing3></TableWing3>
       </TabsContent>
-      <TabsContent value="Wing 4"></TabsContent>
-      <TabsContent value="Wing 5"></TabsContent>
-      <TabsContent value="Wing 6"></TabsContent>
-      <TabsContent value="Wing 7"></TabsContent>
-      <TabsContent value="Wing 8"></TabsContent>
+      <TabsContent value="Wing 4">
+        <TableWing4></TableWing4>
+      </TabsContent>
+      <TabsContent value="Wing 5">
+        <TableWing5></TableWing5>
+      </TabsContent>
+      <TabsContent value="Wing 6">
+        <TableWing6></TableWing6>
+      </TabsContent>
+      <TabsContent value="Wing 7">
+        <TableWing7></TableWing7>
+      </TabsContent>
+      <TabsContent value="Wing 8">
+        <TableWing8 />
+      </TabsContent>
     </Tabs>
   );
 }

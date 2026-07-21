@@ -100,10 +100,10 @@ export function TableWing3() {
         <TableRow data-player="Godbane">
           <TableCell>Godbane</TableCell>
           <TableCell>1</TableCell>
-          <TableCell>Power DPS / Shroom 2</TableCell>
+          <TableCell>Tower Power DPS (Warir)</TableCell>
           <TableCell>Power DPS</TableCell>
-          <TableCell>DPS</TableCell>
           <TableCell>Power DPS</TableCell>
+          <TableCell>Burst DPS</TableCell>
         </TableRow>
       </TableBody>
     </Table>
