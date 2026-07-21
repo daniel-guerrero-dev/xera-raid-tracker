@@ -1,11 +1,15 @@
-import { TabTables } from "./Utility/DefaultTabs";
-import { Separator } from "./components/ui/separator";
+import { Home } from "./Pages/Home";
+import { Routes, Route } from "react-router";
+import { Strats } from "./Pages/Strat";
+import { Composition } from "./Pages/Comp";
+
 function App() {
   return (
-    <div className="flex min-h-svh flex-col items-center justify-center gap-5">
-      <TabTables />
-      <Separator></Separator>
-    </div>
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/Strats" element={<Strats />} />
+      <Route path="/Composition" element={<Composition />} />
+    </Routes>
   );
 }
 

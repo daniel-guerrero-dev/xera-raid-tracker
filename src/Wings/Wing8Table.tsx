@@ -14,13 +14,13 @@ export function TableWing8() {
     <Table>
       <TableCaption>Composition for wing 8</TableCaption>
       <TableHeader>
-        <TableRow>
+        <TableRow className="bg-accent">
           <TableHead>Player</TableHead>
           <TableHead>Subgroup</TableHead>
-          <TableHead className="text-center">Camp</TableHead>
-          <TableHead>Decima</TableHead>
-          <TableHead>Greer</TableHead>
-          <TableHead>Ura</TableHead>
+          <TableHead className="font-extrabold text-center">Camp</TableHead>
+          <TableHead className="font-extrabold text-center">Decima</TableHead>
+          <TableHead className="font-extrabold text-center">Greer</TableHead>
+          <TableHead className="font-extrabold text-center">Ura</TableHead>
         </TableRow>
       </TableHeader>
       <TableBody>

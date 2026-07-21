@@ -14,13 +14,17 @@ export function TableWing1() {
     <Table>
       <TableCaption>Composition for wing 1</TableCaption>
       <TableHeader>
-        <TableRow>
+        <TableRow className="bg-accent">
           <TableHead>Player</TableHead>
           <TableHead>Subgroup</TableHead>
-          <TableHead>Vale Guardian</TableHead>
-          <TableHead>Spirit Run</TableHead>
-          <TableHead>Gorseval</TableHead>
-          <TableHead>Sabetha</TableHead>
+          <TableHead className="font-extrabold text-center">
+            Vale Guardian
+          </TableHead>
+          <TableHead className="font-extrabold text-center">
+            Spirit Run
+          </TableHead>
+          <TableHead className="font-extrabold text-center">Gorseval</TableHead>
+          <TableHead className="font-extrabold text-center">Sabetha</TableHead>
         </TableRow>
       </TableHeader>
       <TableBody>

@@ -14,13 +14,19 @@ export function TableWing3() {
     <Table>
       <TableCaption>Composition for wing 3</TableCaption>
       <TableHeader>
-        <TableRow>
+        <TableRow className="bg-accent">
           <TableHead>Player</TableHead>
           <TableHead>Subgroup</TableHead>
-          <TableHead className="text-center">Escort</TableHead>
-          <TableHead>Keep Construct</TableHead>
-          <TableHead>Twisted Castle</TableHead>
-          <TableHead>Xera OMG ITS REAL</TableHead>
+          <TableHead className="font-extrabold text-center">Escort</TableHead>
+          <TableHead className="font-extrabold text-center">
+            Keep Construct
+          </TableHead>
+          <TableHead className="font-extrabold text-center">
+            Twisted Castle
+          </TableHead>
+          <TableHead className="font-extrabold text-center">
+            Xera OMG ITS REAL
+          </TableHead>
         </TableRow>
       </TableHeader>
       <TableBody>

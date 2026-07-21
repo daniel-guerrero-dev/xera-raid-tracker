@@ -14,12 +14,16 @@ export function TableWing6() {
     <Table>
       <TableCaption>Composition for wing 6</TableCaption>
       <TableHeader>
-        <TableRow>
+        <TableRow className="bg-accent">
           <TableHead>Player</TableHead>
           <TableHead>Subgroup</TableHead>
-          <TableHead className="text-center">Conjured Amalgamate</TableHead>
-          <TableHead>Twin Largos</TableHead>
-          <TableHead>Qadim 1</TableHead>
+          <TableHead className="font-extrabold text-center">
+            Conjured Amalgamate
+          </TableHead>
+          <TableHead className="font-extrabold text-center">
+            Twin Largos
+          </TableHead>
+          <TableHead className="font-extrabold text-center">Qadim 1</TableHead>
         </TableRow>
       </TableHeader>
       <TableBody>

@@ -21,7 +21,7 @@ export function TabTables() {
         <TabsTrigger value="Wing 7">Wing 7</TabsTrigger>
         <TabsTrigger value="Wing 8">Wing 8</TabsTrigger>
       </TabsList>
-      <TabsContent value="Wing 1">
+      <TabsContent value="Wing 1" className="flex flex-col gap-5">
         <TableWing1 />
       </TabsContent>
       <TabsContent value="Wing 2">

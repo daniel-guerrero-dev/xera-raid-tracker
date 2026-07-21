@@ -14,13 +14,15 @@ export function TableWing4() {
     <Table>
       <TableCaption>Composition for wing 4</TableCaption>
       <TableHeader>
-        <TableRow>
+        <TableRow className="bg-accent">
           <TableHead>Player</TableHead>
           <TableHead>Subgroup</TableHead>
-          <TableHead className="text-center">Cairn</TableHead>
-          <TableHead>Mursat Overseer</TableHead>
-          <TableHead>Samarog</TableHead>
-          <TableHead>Deimos</TableHead>
+          <TableHead className="font-extrabold text-center">Cairn</TableHead>
+          <TableHead className="font-extrabold text-center">
+            Mursat Overseer
+          </TableHead>
+          <TableHead className="font-extrabold text-center">Samarog</TableHead>
+          <TableHead className="font-extrabold text-center">Deimos</TableHead>
         </TableRow>
       </TableHeader>
       <TableBody>
