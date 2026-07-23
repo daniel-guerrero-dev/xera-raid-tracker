@@ -19,7 +19,7 @@ import { HouseSimpleIcon, SwordIcon, BookIcon } from "@phosphor-icons/react";
 function App() {
   return (
     <div className="flex h-screen w-full ml-0">
-      <Sidebar className="mr-0">
+      <Sidebar variant="inset" className="mr-0">
         <SidebarContent>
           <SidebarGroup>
             <SidebarGroupLabel>Pages</SidebarGroupLabel>
@@ -58,13 +58,8 @@ function App() {
           </SidebarGroup>
         </SidebarContent>
       </Sidebar>
+      <SidebarTrigger></SidebarTrigger>
       <SidebarInset className="flex">
-        <header
-          className="flex items-center
-          "
-        >
-          <SidebarTrigger></SidebarTrigger>
-        </header>
         <main className="flex-1 p-4">
           <Routes>
             <Route path="/" element={<Home />} />
