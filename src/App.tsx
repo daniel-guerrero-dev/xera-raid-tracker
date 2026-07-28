@@ -60,7 +60,7 @@ function App() {
       </Sidebar>
       <SidebarTrigger></SidebarTrigger>
       <SidebarInset className="flex">
-        <main className="flex-1 p-4">
+        <main className="flex-1 ">
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/Strats" element={<Strats />} />
