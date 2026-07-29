@@ -47,7 +47,7 @@ export function Home() {
                       </CardAction>
                     </CardHeader>
                     <CardContent>
-                      <p>Mesmer jailed</p>
+                      <p>Mechanics jailed</p>
                     </CardContent>
                   </Card>
                 </CarouselItem>
