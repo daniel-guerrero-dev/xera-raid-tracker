@@ -104,13 +104,124 @@ export function Strats() {
             <br />
             <p>
               2 Players will do a JP up the cliff while the rest of the team
-              gets prepared for Trio, one mesmer of thief player will start the
+              gets prepared for Trio, one{" "}
+              <span className="text-purple-500">Mesmer</span> or{" "}
+              <span className="text-pink-300">Thief</span> player will start the
               fight early
             </p>
             <p>
-              Do the boss as normal until Narella where the portal player at the
-              top will glide down to help
+              Do the boss as normal until Narella, where the portal player at
+              the top will glide down to help kill and then place the entrance
+              portal.
             </p>
+            <br />
+            <p>
+              We kill all enemies fast to start matthias, 3 people go fowards in
+              a jumping puzzle and all enemies are killed asap.
+            </p>
+            <br />
+            <p className="text-3xl">Matthias</p>
+            <br />
+            <p>
+              Do fight as normal, one heal/cele scourge will portal the
+              corrupted people into the pools up until 40%, poisons should be
+              dropped fast away from group without going all the way out. After
+              40 just push to kill
+            </p>
+          </TabsContent>
+          <TabsContent value="Wing 3">
+            <br />
+            <p className="text-3xl">Escort</p>
+            <br />
+            <p>
+              We do fast escort. We divide the squad into 2 teams; Ground team
+              and Tower Team
+            </p>
+            <p>
+              Ground team is composed of 4 players with the following
+              composition: 1 <span className="text-pink-300">Daredevil</span>, 1
+              DPS, 1 <span className="text-red-700">Road qHerald</span>, 1{" "}
+              <span className="text-red-500">Aheal Tempest</span>
+            </p>
+            <p>
+              Tower team is simply 1{" "}
+              <span className="text-green-300">Aheal Druid</span>/
+              <span className="text-yellow-200">Paragon</span> for pushes, 1
+              boonDPS, 3 DPS players with pushing capability and one tower {""}
+              <span className="text-pink-300">Daredevil</span>
+            </p>
+            <br />
+            <p>
+              Ground team will use SAK aggresively to call glenna foward through
+              all the points, ignore tower shots with stability and kill
+              enemies/wargs along the way
+            </p>
+            <p>
+              Ground <span className="text-pink-300">Daredevil</span> will
+              portal tower team into the first tower and call glenna into 2 bug
+              spots while the rest of the team pushes foward toward the 3rd bug
+              spot
+            </p>
+            <p>
+              Once Glenna finishes capturing the last leyline she will be placed
+              in her normal spot and the{" "}
+              <span className="text-red-500">Aheal Tempest</span> will glyph of
+              the storms on earth on top of her to blind the wargs attacking.
+            </p>
+            <p>Tower team should finish the encounter before Glenna dies.</p>
+            <br />
+            <p>
+              Tower team will port all the way up to the first tower and take
+              turns using their AoE push/fear skills
+            </p>
+            <p>
+              Once the second tower has been captured, the tower{" "}
+              <span className="text-pink-300">Daredevil</span> will run towards
+              the last call spot for Glenna, place a portal and glide down
+              towards the ground group
+            </p>
+            <p>
+              One <span className="text-purple-500">Mesmer</span> or Ground{" "}
+              <span className="text-pink-300">Daredevil</span> should portal
+              tower team down from the last tower as it's captured so McLeod
+              doesn't get stuck on the tower.
+            </p>
+            <br />
+            <p>
+              Lastly simply kill McLeod the normal way and get ready to start KC
+              as soon as possible.
+            </p>
+            <br />
+            <p className="text-3xl">Keep Construct</p>
+            <br />
+            <p>
+              Start the fight in the middle after finishing Escort, tank the
+              entire fight in the middle.
+            </p>
+            <p>
+              Far fixate moves towards the statues, close fixate moves to the
+              opposite side of the boss so the statue gets into the hitbox
+            </p>
+            <p>
+              Once one statue is dead, far fixate can walk back towards the boss
+              and the statue will be cleaved.
+            </p>
+            <p>Do not CC.</p>
+            <p>
+              DPS boss until 66% and repeat same process for 33% and push to
+              kill.
+            </p>
+            <br />
+            <p className="text-3xl">Twisted Castle</p>
+            <br />
+            <p>
+              2 Mirages do everything (see players tab too check out the
+              details)
+            </p>
+            <br />
+            <p className="text-3xl">Xera</p>
+            <br />
+            <p>Do the fight as normal, fast DPS tank variant.</p>
           </TabsContent>
         </Tabs>
       </div>
