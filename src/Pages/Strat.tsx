@@ -223,6 +223,24 @@ export function Strats() {
             <br />
             <p>Do the fight as normal, fast DPS tank variant.</p>
           </TabsContent>
+          <TabsContent value="Wing 4">
+            <br />
+            <p className="text-3xl">Cairn</p>
+            <br />
+            <p>Do the fight as normal, minimal healers</p>
+            <br />
+            <p className="text-3xl">Mursat Overseer</p>
+            <br />
+            <p>Do the fight as normal, no healers</p>
+            <br />
+            <p className="text-3xl">Samarog</p>
+            <br />
+            <p>Do the fight as normal</p>
+            <br />
+            <p className="text-3xl">Deimos</p>
+            <br />
+            <p>Fight tanked as normal, hand kite is also a boon.</p>
+          </TabsContent>
         </Tabs>
       </div>
     </div>
