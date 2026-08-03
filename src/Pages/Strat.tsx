@@ -241,6 +241,19 @@ export function Strats() {
             <br />
             <p>Fight tanked as normal, hand kite is also a boon.</p>
           </TabsContent>
+          <TabsContent value="Wing 5">
+            <br />
+            <p className="text-3xl">Souless Horror</p>
+            <br />
+            <p>
+              Standard strat, pusher can be adps Druid or qdps Berserker, no 3
+              healers.
+            </p>
+            <br />
+            <p className="text-3xl">River</p>
+            <br />
+            <p></p>
+          </TabsContent>
         </Tabs>
       </div>
     </div>
