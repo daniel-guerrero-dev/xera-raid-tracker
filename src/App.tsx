@@ -15,6 +15,7 @@ import {
   SidebarTrigger,
 } from "./components/ui/sidebar";
 import { HouseSimpleIcon, SwordIcon, BookIcon } from "@phosphor-icons/react";
+import { Players } from "./Pages/Players";
 
 function App() {
   return (
@@ -65,6 +66,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/Strats" element={<Strats />} />
             <Route path="/Composition" element={<Composition />} />
+            <Route path="/Players" element={<Players />} />
           </Routes>
         </main>
       </SidebarInset>

@@ -41,7 +41,7 @@ export function Home() {
                       <CardTitle>Cy</CardTitle>
                       <CardDescription>Fallible Commander</CardDescription>
                       <CardAction>
-                        <Link to="/Composition">
+                        <Link to="/Players">
                           <UploadIcon></UploadIcon>
                         </Link>
                       </CardAction>
@@ -57,7 +57,7 @@ export function Home() {
                       <CardTitle>Kopek</CardTitle>
                       <CardDescription>Necro Enjoyer</CardDescription>
                       <CardAction>
-                        <Link to="/Composition">
+                        <Link to="/Players">
                           <UploadIcon></UploadIcon>
                         </Link>
                       </CardAction>
@@ -73,7 +73,7 @@ export function Home() {
                       <CardTitle>Fennix</CardTitle>
                       <CardDescription>Fiery Greatsword Dealer</CardDescription>
                       <CardAction>
-                        <Link to="/Composition">
+                        <Link to="/Players">
                           <UploadIcon></UploadIcon>
                         </Link>
                       </CardAction>
@@ -89,7 +89,7 @@ export function Home() {
                       <CardTitle>Dabdab</CardTitle>
                       <CardDescription>Badbad*</CardDescription>
                       <CardAction>
-                        <Link to="/Composition">
+                        <Link to="/Players">
                           <UploadIcon></UploadIcon>
                         </Link>
                       </CardAction>
@@ -111,7 +111,7 @@ export function Home() {
                       <CardTitle>Mesmerizing</CardTitle>
                       <CardDescription>Somehow not on a mesmer</CardDescription>
                       <CardAction>
-                        <Link to="/Composition">
+                        <Link to="/Players">
                           <UploadIcon></UploadIcon>
                         </Link>
                       </CardAction>
@@ -127,7 +127,7 @@ export function Home() {
                       <CardTitle>Nicky</CardTitle>
                       <CardDescription>Canadian</CardDescription>
                       <CardAction>
-                        <Link to="/Composition">
+                        <Link to="/Players">
                           <UploadIcon></UploadIcon>
                         </Link>
                       </CardAction>
@@ -143,7 +143,7 @@ export function Home() {
                       <CardTitle>Wisteriya</CardTitle>
                       <CardDescription>Reaper Jailed</CardDescription>
                       <CardAction>
-                        <Link to="/Composition">
+                        <Link to="/Players">
                           <UploadIcon></UploadIcon>
                         </Link>
                       </CardAction>
@@ -159,7 +159,7 @@ export function Home() {
                       <CardTitle>Mapoking</CardTitle>
                       <CardDescription>Fancy Fire Fanatic</CardDescription>
                       <CardAction>
-                        <Link to="/Composition">
+                        <Link to="/Players">
                           <UploadIcon></UploadIcon>
                         </Link>
                       </CardAction>
@@ -175,7 +175,7 @@ export function Home() {
                       <CardTitle>Wawa</CardTitle>
                       <CardDescription>Almost voidwalker</CardDescription>
                       <CardAction>
-                        <Link to="/Composition">
+                        <Link to="/Players">
                           <UploadIcon></UploadIcon>
                         </Link>
                       </CardAction>
@@ -193,7 +193,7 @@ export function Home() {
                         Possibly gone by tomorrow
                       </CardDescription>
                       <CardAction>
-                        <Link to="/Composition">
+                        <Link to="/Players">
                           <UploadIcon></UploadIcon>
                         </Link>
                       </CardAction>
