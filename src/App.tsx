@@ -16,6 +16,7 @@ import {
 } from "./components/ui/sidebar";
 import { HouseSimpleIcon, SwordIcon, BookIcon } from "@phosphor-icons/react";
 import { Players } from "./Pages/Players";
+import { PersonIcon } from "@phosphor-icons/react/dist/ssr";
 
 function App() {
   return (
@@ -52,6 +53,21 @@ function App() {
                   </SidebarMenuButton>
                   <SidebarMenuBadge>
                     <BookIcon />
+                  </SidebarMenuBadge>
+                </Link>
+              </SidebarMenuItem>
+            </SidebarMenu>
+          </SidebarGroup>
+          <SidebarGroup>
+            <SidebarGroupLabel>Players</SidebarGroupLabel>
+            <SidebarMenu>
+              <SidebarMenuItem>
+                <Link to="/Players">
+                  <SidebarMenuButton>
+                    <span>Players</span>
+                  </SidebarMenuButton>
+                  <SidebarMenuBadge>
+                    <PersonIcon />
                   </SidebarMenuBadge>
                 </Link>
               </SidebarMenuItem>
