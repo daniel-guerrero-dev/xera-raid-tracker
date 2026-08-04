@@ -4,14 +4,6 @@ type Player = {
   role: "BoonDPS" | "DPS" | "Healer";
 };
 
-type Wing = {
-  name: string;
-  encounter: {
-    name: string;
-    subroles: ["Willbender", "Soloheal Druid"];
-  };
-};
-
 export const players: Player[] = [
   {
     name: "Cy",
