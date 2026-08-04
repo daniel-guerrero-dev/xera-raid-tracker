@@ -98,7 +98,7 @@ export function TableWing8() {
           <TableCell>DPS</TableCell>
         </TableRow>
         <TableRow data-player="Godbane">
-          <TableCell>Godbane</TableCell>
+          <TableCell>Solar</TableCell>
           <TableCell>1</TableCell>
           <TableCell>DPS</TableCell>
           <TableCell>DPS</TableCell>

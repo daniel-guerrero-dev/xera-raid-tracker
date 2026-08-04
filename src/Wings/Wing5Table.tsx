@@ -100,7 +100,7 @@ export function TableWing5() {
           <TableCell>DPS Back up Green 1</TableCell>
         </TableRow>
         <TableRow data-player="Godbane">
-          <TableCell>Godbane</TableCell>
+          <TableCell>Solar</TableCell>
           <TableCell>1</TableCell>
           <TableCell>Condi DPS</TableCell>
           <TableCell>Power DPS</TableCell>

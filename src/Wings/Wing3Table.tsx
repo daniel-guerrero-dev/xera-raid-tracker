@@ -104,7 +104,7 @@ export function TableWing3() {
           <TableCell>Berserker</TableCell>
         </TableRow>
         <TableRow data-player="Godbane">
-          <TableCell>Godbane</TableCell>
+          <TableCell>Solar</TableCell>
           <TableCell>1</TableCell>
           <TableCell>Tower Power DPS (Warir)</TableCell>
           <TableCell>Power DPS</TableCell>

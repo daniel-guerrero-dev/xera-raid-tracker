@@ -252,7 +252,196 @@ export function Strats() {
             <br />
             <p className="text-3xl">River</p>
             <br />
-            <p></p>
+            <p>
+              1 Scrapper gets left behind with desmina, the rest of the group
+              will move foward and back killing all the exploding enemies along
+              the way.
+            </p>
+            <p>
+              The point is to keep desmina moving at all times without stopping.
+            </p>
+            <br />
+            <p className="text-3xl">Statues</p>
+            <br />
+            <p>
+              Kill eyes first, mesmer portals people down after river, burn
+              north eye first, south eye second.
+            </p>
+            <p>
+              After Eyes are dealt with 4 people will go towards BK, doing as
+              much damage and collecting as they can without dying.
+            </p>
+            <p>
+              The rest of the squad will move towards Eater, kill him and then
+              join the BK squad until all statues are dead.
+            </p>
+            <br />
+            <p className="text-3xl">Dhuum</p>
+            <br />
+            <p>
+              Do the pre event as normal, kiter will be one of the boons. Need
+              at least one mesmer in the party.
+            </p>
+            <p>
+              After the fight starts everyone stacks close to the throne for the
+              entire fight is going to be tanked there, or at least until the
+              first Greater Deathmark
+            </p>
+            <p>
+              As the fight starts the mesmer with MI will use it to make sure
+              the enforcers target the party and not the reapers, they will also
+              place portal at the G3 location, aswell as G1.
+            </p>
+            <p>
+              After first greater, tank becomes normal, kiting and greens done
+              as normal aswell until kill.
+            </p>
+            <p>
+              If possible have a shroud method for this encounter, and try to
+              move towards your symbols as people get lifted for 10%
+            </p>
+          </TabsContent>
+          <TabsContent value="Wing 6">
+            <br />
+            <p className="text-3xl">Conjured Amalgamate</p>
+            <br />
+            <p>Normal strats, have boonDPS solo collect shields and swords.</p>
+            <p>Swords should be 5 on boss, 10 saved for the arms.</p>
+            <br />
+            <p className="text-3xl">Twin Largos</p>
+            <br />
+            <p>Normal strats, start the fight by skyscaling into the arena.</p>
+            <p>Use stability for the right side shockwaves.</p>
+            <br />
+            <p className="text-3xl">Qadim</p>
+            <br />
+            <p>
+              Kite can be whatever, lamp should be done by 2 people for the
+              first two. A daredevil with pitfall and a reaper with staff.
+            </p>
+            <p>
+              Lamp can be done in whatever way is the fastest/safest route
+              possible and the necro places a staff 3 on the lamp spot to damage
+              it.
+            </p>
+            <p>
+              Once the end of lamp is reached the thief will trigger pitfall to
+              self open the lamp.
+            </p>
+            <br />
+            <p>
+              For the main fight, have 1 mesmer to portal and pull at 66%.
+              Portal the team towards the prot pyre, kill it and take portal
+              back.
+            </p>
+            <p>Do damage to sabir until next phase. Then repeat until 33%.</p>
+            <br />
+            <p>
+              33% lamp will have 3 people by adding one of the boonDPS to the
+              lamp for stability.
+            </p>
+          </TabsContent>
+          <TabsContent value="Wing 7">
+            <br />
+            <p className="text-3xl">Gate</p>
+            <br />
+            <p>
+              Have 1 person sacrifice and keep agro on the djinns so they don't
+              get close to the capping circles.
+            </p>
+            <p>
+              Once the keep glenna safe event starts, pull the east djinns close
+              to the portal position for fast killing.
+            </p>
+            <br />
+            <p className="text-3xl">Sabir</p>
+            <br />
+            <p>
+              After the initial pre event ends, skyscale all the way up to the
+              last platform where the air elemental is.
+            </p>
+            <p>
+              Kill it, and once everyone is on the main platform, start the
+              fight.
+            </p>
+            <p>
+              A mesmer will be on the third plataform bellow waiting to place a
+              portal which will be used at the 80% phase timing.
+            </p>
+            <br />
+            <p>
+              DPS the boss, as normal, try greeding harder to avoid certain
+              mechanics from happening.
+            </p>
+            <br />
+            <p className="text-3xl">Adina</p>
+            <br />
+            <p>
+              Start the fight as normal, gamble the pillars, try to have 2
+              boonDPS always baiting them.
+            </p>
+            <p>
+              Put all the pillars in the same position and DPS the boss before
+              you have to hide behind them.
+            </p>
+            <p>
+              During first split phase sub 1 will go towards the east hand, sub
+              2 will go towards the west hand.
+            </p>
+            <p>
+              On every other split phase sub 1 will go north and kill both
+              hands, sub 2 will go south and kill both hands.
+            </p>
+            <br />
+            <p className="text-3xl">Qadim the Peerless</p>
+            <br />
+            <p>
+              2 out of the 3 pylon kiters will be boons, stack close to square
+              side to ensure you get boons.
+            </p>
+            <p>Fires are advanced fires from the Haskha marker pack.</p>
+            <p>
+              At 40,30 and 20% run towards Qadim and deal damage while he
+              destroys the pylons.
+            </p>
+          </TabsContent>
+          <TabsContent value="Wing 8">
+            <br />
+            <p className="text-3xl">Camp</p>
+            <br />
+            <p>Do the encounter as normal, head to Decima right after.</p>
+            <br />
+            <p className="text-3xl">Decima</p>
+            <br />
+            <p>
+              Everyone will be in melee range of decima the entire fight, but
+              "ranged" team will try to bait arrows on the left and "melee" team
+              will try to bait spreads on the right.
+            </p>
+            <p>
+              Subgroup 1 will be "ranged" team, and subgroup 2 will be "melee"
+              team.
+            </p>
+            <p>
+              Both healers will be cele troubadours, use Troub elite to deal
+              with spreads. Move with arrows normally.
+            </p>
+            <br />
+            <p className="text-3xl">Greer</p>
+            <br />
+            <p>
+              Do the fight as normal, healers will be 2 full heal Troubs, using
+              a different trait to make focus 4 a reflect.
+            </p>
+            <p>The start of the fight will be at the "power DPS" start.</p>
+            <br />
+            <p className="text-3xl">Ura</p>
+            <br />
+            <p>
+              Do the fight as normal pug strats, try to bait jumps towards 11
+              before 70%, try to CC her at "bad" timings so she doesn't whirl
+              pool.
+            </p>
           </TabsContent>
         </Tabs>
       </div>

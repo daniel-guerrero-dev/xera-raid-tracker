@@ -100,7 +100,7 @@ export function TableWing7() {
           <TableCell>Power DPS</TableCell>
         </TableRow>
         <TableRow data-player="Godbane">
-          <TableCell>Godbane</TableCell>
+          <TableCell>Solar</TableCell>
           <TableCell>1</TableCell>
           <TableCell>Power DPS</TableCell>
           <TableCell>Power DPS</TableCell>
