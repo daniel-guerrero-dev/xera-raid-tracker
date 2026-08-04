@@ -3,8 +3,8 @@ import { Card, CardHeader } from "@/components/ui/card";
 
 export function Players() {
   return (
-    <div>
-      <div className="p-4 flex flex-col justify-center h-screen text-center">
+    <>
+      <div className="p-4 flex flex-col justify-center h-screen text-center gap-5">
         <p className="text-3xl text-amber-400 font-extrabold">Our Players</p>
         <br />
         <p>
@@ -135,6 +135,6 @@ export function Players() {
           </div>
         </div>
       </div>
-    </div>
+    </>
   );
 }
