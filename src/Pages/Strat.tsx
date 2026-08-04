@@ -1,5 +1,5 @@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-
+import { Link } from "react-router";
 export function Strats() {
   return (
     <div>
@@ -10,8 +10,11 @@ export function Strats() {
         <br />
         <p className="text-xl">
           This page will contain a small overview of the strategies we use for
-          each wing without going into specifics. Check the Player tab for
-          specifics on what each person does.
+          each wing without going into specifics. Check the{" "}
+          <Link to="/Players">
+            <span className="text-amber-400">Player</span>
+          </Link>{" "}
+          tab for specifics on what each person does.
         </p>
         <br />
         <Tabs>
