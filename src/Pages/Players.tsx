@@ -18,7 +18,7 @@ export function Players() {
               <CardHeader>
                 <div className="flex justify-center gap-10 items-center">
                   <Avatar size="lg">
-                    <AvatarImage src="/src/Utility/cypfp.jpg" />
+                    <AvatarImage src="/cypfp.jpg" />
                   </Avatar>
                   <p className="text-2xl">Cy</p>
                 </div>
@@ -30,7 +30,7 @@ export function Players() {
               <CardHeader>
                 <div className="flex justify-center gap-10 items-center">
                   <Avatar size="lg">
-                    <AvatarImage src="/src/Utility/default.jpg" />
+                    <AvatarImage src="/default.jpg" />
                   </Avatar>
                   <p className="text-2xl">Kopek</p>
                 </div>
@@ -42,7 +42,7 @@ export function Players() {
               <CardHeader>
                 <div className="flex justify-center gap-10 items-center">
                   <Avatar size="lg">
-                    <AvatarImage src="/src/Utility/default.jpg" />
+                    <AvatarImage src="/default.jpg" />
                   </Avatar>
                   <p className="text-2xl">Wisteriya</p>
                 </div>
@@ -54,7 +54,7 @@ export function Players() {
               <CardHeader>
                 <div className="flex justify-center gap-10 items-center">
                   <Avatar size="lg">
-                    <AvatarImage src="/src/Utility/default.jpg" />
+                    <AvatarImage src="/default.jpg" />
                   </Avatar>
                   <p className="text-2xl">Wawa</p>
                 </div>
@@ -66,7 +66,7 @@ export function Players() {
               <CardHeader>
                 <div className="flex justify-center gap-10 items-center">
                   <Avatar size="lg">
-                    <AvatarImage src="/src/Utility/default.jpg" />
+                    <AvatarImage src="/default.jpg" />
                   </Avatar>
                   <p className="text-2xl">Mapoking</p>
                 </div>
@@ -78,7 +78,7 @@ export function Players() {
               <CardHeader>
                 <div className="flex justify-center gap-10 items-center">
                   <Avatar size="lg">
-                    <AvatarImage src="/src/Utility/default.jpg" />
+                    <AvatarImage src="/default.jpg" />
                   </Avatar>
                   <p className="text-2xl">Fennix</p>
                 </div>
@@ -90,7 +90,7 @@ export function Players() {
               <CardHeader>
                 <div className="flex justify-center gap-10 items-center">
                   <Avatar size="lg">
-                    <AvatarImage src="/src/Utility/guh.png" />
+                    <AvatarImage src="/GUH.png" />
                   </Avatar>
                   <p className="text-2xl">Dabdab</p>
                 </div>
@@ -102,7 +102,7 @@ export function Players() {
               <CardHeader>
                 <div className="flex justify-center gap-10 items-center">
                   <Avatar size="lg">
-                    <AvatarImage src="/src/Utility/default.jpg" />
+                    <AvatarImage src="/default.jpg" />
                   </Avatar>
                   <p className="text-2xl">Nicky</p>
                 </div>
@@ -114,7 +114,7 @@ export function Players() {
               <CardHeader>
                 <div className="flex justify-center gap-10 items-center">
                   <Avatar size="lg">
-                    <AvatarImage src="/src/Utility/default.jpg" />
+                    <AvatarImage src="/default.jpg" />
                   </Avatar>
                   <p className="text-2xl">Solar</p>
                 </div>
@@ -126,7 +126,7 @@ export function Players() {
               <CardHeader>
                 <div className="flex justify-center gap-10 items-center">
                   <Avatar size="lg">
-                    <AvatarImage src="/src/Utility/default.jpg" />
+                    <AvatarImage src="/default.jpg" />
                   </Avatar>
                   <p className="text-2xl">Mesmerizing</p>
                 </div>
