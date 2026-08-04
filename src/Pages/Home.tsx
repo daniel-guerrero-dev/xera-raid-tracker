@@ -97,7 +97,7 @@ export function Home() {
                     <CardContent className="flex flex-col items-center gap-0.5">
                       <p>HTCM Griefer</p>
                       <img
-                        src="../src/Utility/GUH.png"
+                        src="/GUH.png"
                         alt="Guh"
                         width="100px"
                         height="100px"
@@ -188,10 +188,8 @@ export function Home() {
                 <CarouselItem>
                   <Card size="sm" className="text-center">
                     <CardHeader>
-                      <CardTitle>Godbane</CardTitle>
-                      <CardDescription>
-                        Possibly gone by tomorrow
-                      </CardDescription>
+                      <CardTitle>Solar</CardTitle>
+                      <CardDescription>New member</CardDescription>
                       <CardAction>
                         <Link to="/Players">
                           <UploadIcon></UploadIcon>
